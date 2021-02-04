@@ -1,0 +1,3 @@
+The CSV files on this page contain the latest data from Infoshare and our information releases. 2013 Census meshblock data is also available in CSV format.
+
+You can download CSV files about entire Infoshare subjects. This saves you downloading multiple files from Infoshare. We publish CSV files with most information releases, and add them to this page once the release is published.
